@@ -1,0 +1,195 @@
+
+#EXTINF:-1,rtmplive1
+rtmp://192.168.1.100/live/tv1
+
+#EXTINF:-1,rtmplive2
+rtmp://192.168.1.100/live/tv2
+
+#EXTINF:-1,rtmplive3
+rtmp://192.168.1.100/live/tv3
+
+#EXTINF:-1,rtmplive4
+rtmp://192.168.1.100/live/tv4
+
+
+#EXTINF:-1,hlslive1
+http://192.168.1.100/tv/tv1.m3u8
+
+#EXTINF:-1,hlslive2
+http://192.168.1.100/tv/tv2.m3u8
+
+#EXTINF:-1,hlslive3
+http://192.168.1.100/tv/tv3.m3u8
+
+#EXTINF:-1,hlslive4
+http://192.168.1.100/tv/tv4.m3u8
+
+
+
+#EXTINF:-1,my test TV
+rtmp://192.168.1.100/live/tv1
+
+#EXTINF:-1,my test TV
+rtmp://192.168.1.100/hd/tv1
+
+#EXTINF:-1,STAR sports
+rtmp://182.48.66.35/live/tv1
+
+
+
+#EXTINF:-1,SPORTS CHANNEL
+rtmp://223.27.115.46/IDEA/test
+
+#EXTINF:-1, TV
+rtmp://103.31.178.232/live/tv1
+#EXTINF:-1, TV
+
+rtmp://182.48.93.251:80/live/tv1
+#EXTINF:-1, TV
+rtmp://103.31.178.232/live/tv2
+#EXTINF:-1,SOMOY TV
+rtmp://103.230.62.22:1935/live/somoy
+#EXTINF:-1,CHANNEL I TV
+rtmp://103.230.62.22:1935/live/cdnchanneli1
+#EXTINF:-1,LOCAL TV
+rtmpt://103.230.62.22:1935/live/btvlocal
+#EXTINF:-1,N TV
+rtmp://103.230.62.22:1935/live/ntv
+
+#EXTINF:-1,star_movies
+rtmp://bandhonbd.live24.ga/live/eh_star_movies
+#EXTINF:-1,star_sports4
+rtmp://bandhonbd.live24.ga/live/sh_star_sports4
+#EXTINF:-1,star_world
+rtmp://bandhonbd.live24.ga/live/eh_star_world
+#EXTINF:-1,ekattor
+rtmp://bandhonbd.live24.ga/live/bh_ekattor
+#EXTINF:-1,bangla_vision
+rtmp://bandhonbd.live24.ga/live/bl_bangla_vision
+
+#EXTINF:-1,ntv
+rtmp://bandhonbd.live24.ga/live/bh_ntv
+#EXTINF:-1,sa
+rtmp://bandhonbd.live24.ga/live/bh_sa
+#EXTINF:-1,channel9
+rtmp://bandhonbd.live24.ga/live/bh_channel9
+#EXTINF:-1,channel24
+rtmp://bandhonbd.live24.ga/live/bh_channel24
+
+#EXTINF:-1,gazi
+rtmp://bandhonbd.live24.ga/live/bh_gazi
+#EXTINF:-1,ekushay
+rtmp://bandhonbd.live24.ga/live/bh_ekushay
+#EXTINF:-1,jamuna
+rtmp://bandhonbd.live24.ga/live/bh_jamuna
+#EXTINF:-1,independent
+rtmp://bandhonbd.live24.ga/live/bh_independent
+#EXTINF:-1,atn_bangla
+rtmp://bandhonbd.live24.ga/live/bh_atn_bangla
+
+#EXTINF:-1,DESH TV
+rtmp://bandhonbd.live24.ga/live/bh_desh
+
+#EXTINF:-1,JOMUNA TV
+rtmp://bandhonbd.live24.ga/live/bh_jamuna
+
+#EXTINF:-1,EKUSHE TV
+rtmp://103.26.115.180:1935/live/bh_ekushay
+
+#EXTINF:-1,gaji tv
+rtmp://103.26.115.180:1935/live/bh_gazi
+
+
+
+#EXTINF:-1,INDEPENDENT TV
+rtmp://103.26.115.180:1935/live/bh_independent
+
+#EXTINF:-1,masranga tv
+rtmp://103.26.115.180/live/bh_maasranga
+
+
+#EXTINF:-1,atn bangla
+rtmp://103.26.115.180:1935/live/bh_atn_bangla
+
+#EXTINF:-1,ant news
+rtmp://103.26.115.180:1935/live/bh_atn_news
+
+#EXTINF:-1,bangla vision
+rtmp://103.26.115.180:1935/live/bh_bangla_vision
+
+#EXTINF:-1,btv
+rtmp://103.26.115.180:1935/live/bh_btv_world
+
+#EXTINF:-1,channel 24
+rtmp://103.26.115.180:1935/live/bh_channel24
+
+#EXTINF:-1,channel i
+rtmp://103.26.115.180:1935/live/bh_channeli
+
+#EXTINF:-1,desh tv
+rtmp://103.26.115.180:1935/live/bh_desh
+
+
+#EXTINF:-1,SA TV
+rtmp://103.26.115.180:1935/live/bh_sa
+#EXTINF:-1,BOISAKHI TV
+rtmp://103.26.115.180:1935/live/bh_boishakhi
+#EXTINF:-1,BIJOY TV
+rtmp://103.26.115.180:1935/live/bh_bijoy
+#EXTINF:-1,GAAN BANGLA TV
+rtmp://103.26.115.180:1935/live/bh_gaanbangla
+#EXTINF:-1,ASIAN TV
+rtmp://103.26.115.180:1935/live/bh_asian
+#EXTINF:-1,ekattor TV
+rtmp://103.26.115.180:1935/live/bh_ekattor
+
+
+
+
+
+#EXTINF:-1,STAR sports HD
+rtmp://103.3.226.211/live//live1
+#EXTINF:-1,N TV OFFICIAL
+rtmp://54.154.10.248:1935/live/ntvbd
+#EXTINF:-1,super sports
+rtmp://netexpressbd.com/live//livetv3
+#EXTINF:-1,super sports
+rtmp://netexpressbd.com/live//livetv4
+#EXTINF:-1,new TV
+rtmp://103.230.63.83/live/livestream
+#EXTINF:-1,new TV2
+rtmp://103.230.63.83/live/livestream2
+
+#EXTINF:-1,test TV
+rtmp://124.6.236.253/live/livestream
+#EXTINF:-1,test TV
+rtmp://172.16.50.2/live/livestream
+#EXTINF:-1,test TV
+rtmp://172.16.50.2/live1/livestream
+#EXTINF:-1,test TV
+rtmp://172.16.50.2/live2/livestream
+#EXTINF:-1,test TV
+http://43.224.116.67/hls-live/livepkgr3/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,jalsa
+rtmp://103.250.69.200:80/live/livestream
+
+#EXTINF:-1,EXORD LIVE
+rtmp://103.231.161.234/live4/livestream
+
+#EXTINF:-1,EXORD LIVE
+rtmp://103.231.161.234/live5/livestream
+
+#EXTINF:-1,EXORD LIVE
+rtmp://103.231.161.234/live3/livestream
+
+#EXTINF:-1,EXORD LIVE
+rtmp://103.231.161.234/live2/livestream
+
+#EXTINF:-1,EXORD LIVE
+rtmp://103.231.161.234/live1/livestream
+
+
+#EXTINF:-1,EXORD LIVE
+rtmp://103.231.161.234/live/livestream
+
