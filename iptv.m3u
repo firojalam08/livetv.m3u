@@ -945,6 +945,8 @@ https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 ,Dijlah [Iraq]
 https://ghaasiflu.online/Dijlah/index.m3u8
+
+
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png",Somoy
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg",Jamuna TV
@@ -1019,6 +1021,12 @@ https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/Gt1zkqS/IMG-20240129-063013.png",Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:-1 group-title="BANGLADESHI CHANNELS" ,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x50681" group-title="BANGLADESHI CHANNELS" ,RTV Music
+https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+
+
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",Zee TV
 http://103.107.79.87:8080/CH8108SD07/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",Sony SET
