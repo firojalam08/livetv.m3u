@@ -71,8 +71,7 @@ https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/h8XTTZb/IMG-20240129-063732.jpg",NRB HD Tv
 https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/Gt1zkqS/IMG-20240129-063013.png",Bangla Tv
-https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" ,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x50681" group-title="BANGLADESHI CHANNELS" ,RTV Music
