@@ -1025,6 +1025,10 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x50681" group-title="BANGLADESHI CHANNELS" ,RTV Music
 https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="BANGLADESHI CHANNELS",Asian TV
+#https://mtlivestream.site/asian/ytlive/index.m3u8
+https://freeiptv25.netlify.app/live/bdix/app/Asiantv.m3u8
+#http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
 
 
 #EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",Zee TV
