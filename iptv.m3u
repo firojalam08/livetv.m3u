@@ -89,9 +89,9 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" ,Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #----------------------------- SPORTS GROUP ------------------------------------------
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.ibb.co/h8XTTZb/IMG-20240129-063732.jpg",GAZI TV
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gazi-tv-bd.png",GAZI TV
 http://198.51.100.100/hls/5008.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.ibb.co/h8XTTZb/IMG-20240129-063732.jpg",T SPORTS
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png",T SPORTS
 http://198.51.100.100/hls/5067.m3u8
 #----------------------------- INDIAN BANGLA CHANNELS GROUP ------------------------------------------
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
