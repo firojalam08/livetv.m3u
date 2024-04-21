@@ -1,4 +1,5 @@
 #EXTM3U
+#----------------------------- BANGLADESHI CHANNELS GROUP ------------------------------------------
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png",Somoy
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg",Jamuna TV
@@ -87,7 +88,24 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" ,Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#-----------------------------------------------------------------------
+#----------------------------- SPORTS GROUP ------------------------------------------
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.ibb.co/h8XTTZb/IMG-20240129-063732.jpg",GAZI TV
+http://198.51.100.100/hls/5008.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.ibb.co/h8XTTZb/IMG-20240129-063732.jpg",T SPORTS
+http://198.51.100.100/hls/5067.m3u8
+#----------------------------- INDIAN BANGLA CHANNELS GROUP ------------------------------------------
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
+http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png",Zee Bangla HD
+http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/KbB098T/IMG-20240126-112549.png",Sun Bangla
+http://103.107.79.87:8080/CH8110SD04/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
+https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/9cfcKcP/IMG-20240126-113721.png",Jalsha Movies
+http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/Mkc13dg/IMG-20240223-091838.jpg",AMAR BANGLA
+https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 ,SANGSAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
@@ -1077,18 +1095,7 @@ https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
 https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
-http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/NsNf4XJ/IMG-20240126-112842.png",Zee Bangla HD
-http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/KbB098T/IMG-20240126-112549.png",Sun Bangla
-http://103.107.79.87:8080/CH8110SD04/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/nPwTVHJ/IMG-20240223-092054.jpg",Sun Bangla Cinema
-https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/9cfcKcP/IMG-20240126-113721.png",Jalsha Movies
-http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/Mkc13dg/IMG-20240223-091838.jpg",AMAR BANGLA
-https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="freecatv",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 ,Ekushey TV
