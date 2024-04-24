@@ -108,11 +108,11 @@ http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 #--------------------KIDS--------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg",Duronto TV
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F7DJWvg/IMG-20240320-115732.jpg"group-title="KIDS",DURONTO TV-2
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/F7DJWvg/IMG-20240320-115732.jpg",DURONTO TV-2
 http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS",Kids Creation
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png",Peace Tv Bangla
