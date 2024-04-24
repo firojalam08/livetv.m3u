@@ -110,12 +110,56 @@ https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
-#http://test.bongodrive.pw/bdix.m3u8?ac=1103
-#https://freeiptv25.netlify.app/live/bdix/app/Duronto.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/F7DJWvg/IMG-20240320-115732.jpg",DURONTO TV-2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F7DJWvg/IMG-20240320-115732.jpg"group-title="KIDS",DURONTO TV-2
 http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png"group-title="KIDS",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png",Peace Tv Bangla
+http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg",DEEN TV
+https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg",IQRA BANGLA
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
+https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
+https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
+https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",Zee TV
+http://103.107.79.87:8080/CH8108SD07/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",Sony SET
+http://103.107.79.87:8080/CH8108SD04/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/V3Zhf2t/IMG-20240126-093241.png",Sony MAX HD
+http://103.107.79.87:8080/CH8108SD08/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/fxSX6yv/IMG-20240126-121202.jp",UTV Movies HD
+http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/fxSX6yv/IMG-20240126-121202.jp",UTV Cinema HD
+http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.imgur.com/1M0jHid.jp",Hollywood HD
+http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/2Kt2PCN/IMG-20240320-115112.jpg",AXN
+http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/94Dgbyf/IMG-20240129-065844.jpg",Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/ZMpn1rR/IMG-20240126-093957.png",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/wCKDb6r/IMG-20240126-094043.png",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/5k2j5Td/IMG-20240129-065949.png",Love Stories TV
+https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/CnDpM2P/IMG-20240126-094113.png",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/QJzQj9d/IMG-20240126-095026.jpg",Colosal TV
+https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
+#EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/5FJfSbz/IMG-20240126-122137.png",V2BEAT TV
+https://livess.ncare.live/live-orgin/v2beattv.stream/chunks.m3u8
 
 #EXTINF:-1 ,SANGSAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
@@ -1060,53 +1104,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 ,Dijlah [Iraq]
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/Zzj7q0D/IMG-20240126-115732.png",Zee TV
-http://103.107.79.87:8080/CH8108SD07/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/1bKXj1x/IMG-20240126-093309.png",Sony SET
-http://103.107.79.87:8080/CH8108SD04/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/V3Zhf2t/IMG-20240126-093241.png",Sony MAX HD
-http://103.107.79.87:8080/CH8108SD08/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/fxSX6yv/IMG-20240126-121202.jp",UTV Movies HD
-http://103.107.79.87:8080/CH8109HD05/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN CHANNELS" tvg-logo="https://i.ibb.co/fxSX6yv/IMG-20240126-121202.jp",UTV Cinema HD
-http://103.107.79.87:8080/CH8109HD01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.imgur.com/1M0jHid.jp",Hollywood HD
-http://103.107.79.87:8080/CH8109HD08/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/2Kt2PCN/IMG-20240320-115112.jpg",AXN
-http://103.107.79.87:8080/CH8109HD06/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/94Dgbyf/IMG-20240129-065844.jpg",Melbourne
-https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/ZMpn1rR/IMG-20240126-093957.png",Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/wCKDb6r/IMG-20240126-094043.png",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/5k2j5Td/IMG-20240129-065949.png",Love Stories TV
-https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/CnDpM2P/IMG-20240126-094113.png",Dove Channel
-https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/QJzQj9d/IMG-20240126-095026.jpg",Colosal TV
-https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
-#EXTINF:-1 group-title="MUSIC CHANNELS" tvg-logo="https://i.ibb.co/5FJfSbz/IMG-20240126-122137.png",V2BEAT TV
-https://livess.ncare.live/live-orgin/v2beattv.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/vwxzDSF/IMG-20240302-221713.png",Peace Tv Bangla
-http://176.119.29.52/live/00:1A:79:50:31:74/B5888A04FEE6A/237.m3u8
-#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg",DEEN TV
-https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
-#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg",IQRA BANGLA
-https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/Jj9wy2q/IMG-20240129-062807.jpg",MAKKAH Tv
-https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
-#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.ibb.co/YdZR2jZ/IMG-20240129-062846.jpg",ISLAM Tv
-https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
-#EXTINF:-1 group-title="ISLAMIC CHANNELS" tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png",Al Sunnah Al Nabawiyah TV
-https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
-
-#EXTINF:-1 group-title="freecatv",Hollywood HD
-http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 ,Ekushey TV
 http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,Peace TV English HD
