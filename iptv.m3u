@@ -89,10 +89,66 @@ https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" ,Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #----------------------------- SPORTS GROUP ------------------------------------------
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gazi-tv-bd.png",GAZI TV
-http://198.51.100.100/hls/5008.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png",T SPORTS
-http://198.51.100.100/hls/5067.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Live English
+https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Live Hindi
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Live
+https://jiocinema.himel-op.top/your-abbu/ipl-english-4k.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 T Sports
+https://sagor@edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=PRdpHHgJGoNrvIc0Tjk0oA&expires=1713584855&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 T Sports
+http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
+#http://176.119.29.52/live/00:1A:79:42:01:16/8B83484C00326/48010.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 T Sports
+https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 T Sports
+https://live-cdn.tsports.com/live-01/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Gazi TV
+http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Gazi TV
+https://sagor@edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=G8PUgmxUCZpOxvHt1PxN_w&expires=1713584269&user=c15be118d93a464dabf77260596012cf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Star Sports 1
+http://xtv.ooo:8080/live/shahz18/18usman/167575.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Star Sports 1
+http://watchindia.net:8880/live/83023/62335/2186.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Star Sports 1 Hindi
+https://webhdrus.onlinehdhls.ru/lb/premium267/index.m3u8?|referer=https://weblivehdplay.ru/&user-agent=ms.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Sky Sports Cricket 
+http://xtv.ooo:8080/live/shahz18/18usman/167594.ts
+#https://s1.bongohub.pw/mac/e4u.m3u8?id=24433
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Astro Cricket
+http://xtv.ooo:8080/live/shahz18/18usman/167581.ts
+#https://s1.bongohub.pw/mac/e4u.m3u8?id=24544
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Super Sports Cricket
+http://xtv.ooo:8080/live/shahz18/18usman/238475.ts
+#https://s1.bongohub.pw/mac/e4u.m3u8?id=24545
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 Willow HD
+http://watchindia.net:8880/live/62448/92037/1067.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="SPORTS",IPL 2024 ATN National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="SPORTS",T Sports
+http://xtv.ooo:8080/live/T4S00515/820172/167590.ts
+#https://test.bongodrive.pw/bdix.m3u8?ac=1101
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="SPORTS",T Sports
+https://live-cdn.tsports.com/live-01/index.m3u8
+#https://freeiptv25.netlify.app/live/stream_8.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="SPORTS",T Sports
+https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="SPORTS",T Sports
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="SPORTS",Gazi TV
+https://its-nayeemparvez.xyz/jadoo/master.m3u8?id=gazi_tv_hd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="SPORTS",Gazi TV
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"group-title="SPORTS",Gazi TV
+http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
+#https://api.bongohub.pw/mac/pak.m3u8?id=11892
+
 #----------------------------- INDIAN BANGLA CHANNELS GROUP ------------------------------------------
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
