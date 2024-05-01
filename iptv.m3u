@@ -97,21 +97,14 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png",Global TV
 #https://bongohub.pw/bioscope.php?cc=global-tv
 http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="4" group-title="BANGLADESHI CHANNELS" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png", TOFFEE Dramas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.193 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1714523263:KeyName=prod_linear:Signature=6PdQxugTJ-b2XHwYrqJUvyI_1x1XL8ZzZ4yGNYqPYWaqMFBZTR4BBKETnxhVeCuu5y5bGLeysk86z_zMWFtZDg"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
-#EXTINF:-1 tvg-chno="5" group-title="BANGLADESHI CHANNELS" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_406284001687254721.png", TOFFEE Movies VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.193 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1714523263:KeyName=prod_linear:Signature=6PdQxugTJ-b2XHwYrqJUvyI_1x1XL8ZzZ4yGNYqPYWaqMFBZTR4BBKETnxhVeCuu5y5bGLeysk86z_zMWFtZDg"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
+
 
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg",Duronto TV
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/F7DJWvg/IMG-20240320-115732.jpg",DURONTO TV-2
-http://103.107.79.87:8080/CH8108SD01/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+https://iptv.ott-bangladesh.workers.dev/all
 #----------------------------- INDIAN BANGLA CHANNELS GROUP ------------------------------------------
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
