@@ -104,6 +104,13 @@ http://cdn01.palki.tv/live/Duronto-M/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ChannelS.bd" tvg-logo="https://i.imgur.com/IDjoXfu.png" group-title="Music",Channel S
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTVMusic.bd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x50681" group-title="Music",RTV Music
+https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
+
 #----------------------------- INDIAN BANGLA CHANNELS GROUP ------------------------------------------
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
 http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
