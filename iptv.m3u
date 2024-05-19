@@ -22,6 +22,11 @@ http://cdn01.palki.tv/live/SATV-M/index.m3u8
 #https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Bangla",Ekushay TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+#https://ekusheyserver.com/etvlivesn.m3u8
+#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
+
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/8sVYKmM/IMG-20240126-084123.jpg",Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/S3GmF3b/IMG-20240126-084426.png",DBC News
