@@ -277,7 +277,84 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 #EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="https://i.ibb.co/CnDpM2P/IMG-20240126-094113.png",Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 ,Ekushey TV
+http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,Peace TV English HD
+http://175.107.244.52:4455/play/a06m/index.m3u8
+#EXTINF:-1 ,BanglaTV USA
+http://208.86.19.13:81/504.stream/index.m3u8
+#EXTINF:-1 ,IBTV USA
+http://208.86.19.13:81/509.stream/index.m3u8
+#EXTINF:-1 ,আমার বাংলা
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,Time TV
+http://208.86.19.13:81/506.stream/index.m3u8
+#EXTINF:-1 ,Peace TV Urdu HD
+http://175.107.244.52:4455/play/a06n/index.m3u8
+#EXTINF:-1 ,Iqra Bangla
+http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1 ,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 ,BANGLAVISION
+http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 ,BOISHAKHI TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 ,Ekattor TV HD
+http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 ,Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 ,MQC TV
+http://208.86.19.13:81/517.stream/index.m3u8
+#EXTINF:-1 ,akhon tv
+http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
+#EXTINF:-1 ,IQRA BANGLA
+http://208.86.19.13:81/507.stream/index.m3u8?
+#EXTINF:-1 ,IBTV USA
+http://208.86.19.13:81/509.stream/index.m3u8?
+#EXTINF:-1 ,Ekushey TV
+https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,Ekushe TV Ch-1
+http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,BANGLA TV
+http://208.86.19.13:81/504.stream/index.m3u8?
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="information",Animal Planet
+https://raw.githubusercontent.com/functionerror/channels/main/information/Animal_Planet.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="information",DMAX
+https://raw.githubusercontent.com/functionerror/channels/main/information/DMAX.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="information",Discovery Channel
+https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png" group-title="information",Discovery Kids
+https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Kids.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png" group-title="information",Discovery Science
+https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Science.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="information",Discovery Turbo
+https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Turbo.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="information",Food Network
+https://raw.githubusercontent.com/functionerror/channels/main/information/Food%20Network.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="information",HGTV
+https://raw.githubusercontent.com/functionerror/channels/main/information/HGTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="information",Investigation Discovery
+https://raw.githubusercontent.com/functionerror/channels/main/information/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="information",Discovery Bengali
+https://raw.githubusercontent.com/functionerror/channels/main/information/discoverybengali.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bfb8c366-8efc-42f6-9901-df0fd0884736_180x180_Khushboo.jpg",KHUSHBOO BANGLA
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s",STAR JALSHA HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynVpuJalJVCQisP6H1ln1uxIIGrx_0wB1HMQ-7aF3YA&s",STAR JALSHA HD
+http://sansat.net:88/02029761595924/9d089925dc60a821/95769
+#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcs6xXJN57Lasqi8jOr194fZLaxKR2tFkWr1zgDIukw&s",ENTERR 10 BANGLA
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR78ypanTFD5XfbpWfinhNa0V0PCWiMa62Sg&s",SUN BANGLA
+http://sansat.net:88/02029761595924/9d089925dc60a821/100754
+#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",ZEE BANGLA CINEMA
+http://sansat.net:88/02029761595924/9d089925dc60a821/100702
+#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",ZEE BANGLA
+http://sansat.net:88/02029761595924/9d089925dc60a821/100716
+#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",COLORS BANGLA HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 ,SANGSAD TV
 http://cdn01.palki.tv/live/SangsadTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,EKUSHEY TV
@@ -1221,81 +1298,4 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 ,Dijlah [Iraq]
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1 ,Ekushey TV
-http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,Peace TV English HD
-http://175.107.244.52:4455/play/a06m/index.m3u8
-#EXTINF:-1 ,BanglaTV USA
-http://208.86.19.13:81/504.stream/index.m3u8
-#EXTINF:-1 ,IBTV USA
-http://208.86.19.13:81/509.stream/index.m3u8
-#EXTINF:-1 ,আমার বাংলা
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Time TV
-http://208.86.19.13:81/506.stream/index.m3u8
-#EXTINF:-1 ,Peace TV Urdu HD
-http://175.107.244.52:4455/play/a06n/index.m3u8
-#EXTINF:-1 ,Iqra Bangla
-http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1 ,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,BANGLAVISION
-http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,BOISHAKHI TV
-http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,Ekattor TV HD
-http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,MQC TV
-http://208.86.19.13:81/517.stream/index.m3u8
-#EXTINF:-1 ,akhon tv
-http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
-#EXTINF:-1 ,IQRA BANGLA
-http://208.86.19.13:81/507.stream/index.m3u8?
-#EXTINF:-1 ,IBTV USA
-http://208.86.19.13:81/509.stream/index.m3u8?
-#EXTINF:-1 ,Ekushey TV
-https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,Ekushe TV Ch-1
-http://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,BANGLA TV
-http://208.86.19.13:81/504.stream/index.m3u8?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1067px-2018_Animal_Planet_logo.svg.png" group-title="information",Animal Planet
-https://raw.githubusercontent.com/functionerror/channels/main/information/Animal_Planet.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" group-title="information",DMAX
-https://raw.githubusercontent.com/functionerror/channels/main/information/DMAX.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="information",Discovery Channel
-https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Channel.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png" group-title="information",Discovery Kids
-https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Kids.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png" group-title="information",Discovery Science
-https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Science.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="information",Discovery Turbo
-https://raw.githubusercontent.com/functionerror/channels/main/information/Discovery_Turbo.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="information",Food Network
-https://raw.githubusercontent.com/functionerror/channels/main/information/Food%20Network.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="information",HGTV
-https://raw.githubusercontent.com/functionerror/channels/main/information/HGTV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="information",Investigation Discovery
-https://raw.githubusercontent.com/functionerror/channels/main/information/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="information",Discovery Bengali
-https://raw.githubusercontent.com/functionerror/channels/main/information/discoverybengali.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bfb8c366-8efc-42f6-9901-df0fd0884736_180x180_Khushboo.jpg",KHUSHBOO BANGLA
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqozs-4mKu7BOcscymi5kKXXT_hZ6DIugS-h_9l7PcNQ&s",STAR JALSHA HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTynVpuJalJVCQisP6H1ln1uxIIGrx_0wB1HMQ-7aF3YA&s",STAR JALSHA HD
-http://sansat.net:88/02029761595924/9d089925dc60a821/95769
-#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTcs6xXJN57Lasqi8jOr194fZLaxKR2tFkWr1zgDIukw&s",ENTERR 10 BANGLA
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR78ypanTFD5XfbpWfinhNa0V0PCWiMa62Sg&s",SUN BANGLA
-http://sansat.net:88/02029761595924/9d089925dc60a821/100754
-#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",ZEE BANGLA CINEMA
-http://sansat.net:88/02029761595924/9d089925dc60a821/100702
-#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png",ZEE BANGLA
-http://sansat.net:88/02029761595924/9d089925dc60a821/100716
-#EXTINF:-1 tvg-group="Indian Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_HD.png",COLORS BANGLA HD
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
