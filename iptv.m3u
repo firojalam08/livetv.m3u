@@ -1,7 +1,5 @@
 #EXTM3U
 #----------------------------- BANGLADESHI CHANNELS GROUP ------------------------------------------
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png",Somoy News Yuotube
-https://raw.githubusercontent.com/firojalam08/Youtube_live/main/channel-name.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png",Somoy
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Bangla News",Independent TV
@@ -59,8 +57,6 @@ https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
 https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i youtube
-https://raw.githubusercontent.com/firojalam08/channel-i/main/channel-i.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/BwMpnr3/IMG-20240129-063118.jpg",Ekhon Tv
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI CHANNELS" tvg-logo="https://i.ibb.co/HTf0zzr/IMG-20240126-092334.jpg",Deepto TV
@@ -113,8 +109,6 @@ https://its-nayeemparvez.xyz/jadoo/master.m3u8?id=nagorik_tv&e=.m3u8
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 #EXTINF:0 tvg-logo=https://i.imgur.com/OTzS5Fc.png group-title=”BANGLA MUSIC”,ATN MUSIC
 https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="RTVMusic.bd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x50681" group-title="BANGLA MUSIC",RTV Music Youtube
-https://raw.githubusercontent.com/firojalam08/r-tv-music/main/r-tv-music.m3u8
 #EXTINF:-1 tvg-id="RTVMusic.bd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x50681" group-title="BANGLA MUSIC",RTV Music
 https://ythls.armelin.one/channel/UCi-aUVwZR5U8GBNOy0CC4ww.m3u8
 
